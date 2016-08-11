@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Seek Disruption]]></title>
+        <description><![CDATA[Seek Disruption]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 00:41:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2fb136-443a-4d3d-95c9-d7f167a8161b.jpg">]]></description>
+            <link>undefinedeither-you-are-a-disruptor-or-you-will-be-disrupted/index.html</link>
+            <guid isPermaLink="false">3e6ec2bc-9a69-4633-8542-ad879d028f4e</guid>
+            <pubDate>Thu, 11 Aug 2016 00:41:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
