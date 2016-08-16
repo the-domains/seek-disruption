@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Seek Disruption]]></title>
         <description><![CDATA[Seek Disruption]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seek-disruption/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 00:41:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Aug 2016 14:08:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seek-disruption/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test this</p>]]></description>
+            <link>https://thegrid.ai/seek-disruption/test-this/index.html</link>
+            <guid isPermaLink="false">f7244dfe-e349-43d0-8de6-6ac7a4de0f6c</guid>
+            <pubDate>Tue, 16 Aug 2016 14:08:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa2fb136-443a-4d3d-95c9-d7f167a8161b.jpg">]]></description>
-            <link>undefinedeither-you-are-a-disruptor-or-you-will-be-disrupted/index.html</link>
+            <link>https://thegrid.ai/seek-disruption/either-you-are-a-disruptor-or-you-will-be-disrupted/index.html</link>
             <guid isPermaLink="false">3e6ec2bc-9a69-4633-8542-ad879d028f4e</guid>
             <pubDate>Thu, 11 Aug 2016 00:41:38 GMT</pubDate>
         </item>
